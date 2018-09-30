@@ -1,4 +1,4 @@
-Configuration CloudShopSQL
+Configuration alkimsSQLServer
 {
     $credential = Get-AutomationPSCredential -Name "SQLLocalAdmin"
     Node "SQLSERVER" 
