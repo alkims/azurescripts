@@ -1,4 +1,4 @@
-Configuration CloudShopWeb
+Configuration alkimsWebServer
 {
     Node "WebServer" 
     {
